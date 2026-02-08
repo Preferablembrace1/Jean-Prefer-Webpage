@@ -1,5 +1,5 @@
 # Jean-Prefer-Webpage
-El proyecto es un sitio web semiestatico de promoción de la ferreteria de Jean. Será elaborada con html, css, JS y PHP u otro programa para manejar peticiones de servidor.
+El proyecto es un sitio web semiestatico de promoción de la ferreteria de Jean. Será elaborada con HTML, CSS, JS y PHP u otro programa para manejar peticiones de servidor.
 
 ## Características clave:
 
